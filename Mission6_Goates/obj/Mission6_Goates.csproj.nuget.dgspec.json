@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/joshuagoates/RiderProjects/Mission6_Goates/Mission6_Goates/Mission6_Goates.csproj": {}
+    "/Users/joshuagoates/Documents/GitHub/Mission6_Goates/Mission6_Goates/Mission6_Goates.csproj": {}
   },
   "projects": {
-    "/Users/joshuagoates/RiderProjects/Mission6_Goates/Mission6_Goates/Mission6_Goates.csproj": {
+    "/Users/joshuagoates/Documents/GitHub/Mission6_Goates/Mission6_Goates/Mission6_Goates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/joshuagoates/RiderProjects/Mission6_Goates/Mission6_Goates/Mission6_Goates.csproj",
+        "projectUniqueName": "/Users/joshuagoates/Documents/GitHub/Mission6_Goates/Mission6_Goates/Mission6_Goates.csproj",
         "projectName": "Mission6_Goates",
-        "projectPath": "/Users/joshuagoates/RiderProjects/Mission6_Goates/Mission6_Goates/Mission6_Goates.csproj",
+        "projectPath": "/Users/joshuagoates/Documents/GitHub/Mission6_Goates/Mission6_Goates/Mission6_Goates.csproj",
         "packagesPath": "/Users/joshuagoates/.nuget/packages/",
-        "outputPath": "/Users/joshuagoates/RiderProjects/Mission6_Goates/Mission6_Goates/obj/",
+        "outputPath": "/Users/joshuagoates/Documents/GitHub/Mission6_Goates/Mission6_Goates/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/joshuagoates/.nuget/NuGet/NuGet.Config"

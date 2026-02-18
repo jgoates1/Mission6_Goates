@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "edA9aiv+VVY=",
+  "dgSpecHash": "O8lxqWrIVtk=",
   "success": true,
-  "projectFilePath": "/Users/joshuagoates/RiderProjects/Mission6_Goates/Mission6_Goates/Mission6_Goates.csproj",
+  "projectFilePath": "/Users/joshuagoates/Documents/GitHub/Mission6_Goates/Mission6_Goates/Mission6_Goates.csproj",
   "expectedPackageFiles": [
     "/Users/joshuagoates/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/joshuagoates/.nuget/packages/microsoft.build.framework/18.0.2/microsoft.build.framework.18.0.2.nupkg.sha512",
